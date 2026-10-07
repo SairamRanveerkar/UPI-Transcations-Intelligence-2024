@@ -1,0 +1,5 @@
+{
+  "sqlite.defaultDatabase": "${workspaceFolder}/UPI-Transcations-Intelligence-2024/upi_transactions.db",
+  "git.path": "C:\\Program Files\\Git\\cmd\\git.exe",
+  "git.enabled": true
+}

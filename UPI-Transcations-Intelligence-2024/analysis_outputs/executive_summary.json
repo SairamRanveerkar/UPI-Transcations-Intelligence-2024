@@ -1,0 +1,16 @@
+{
+  "total_transactions": 89019,
+  "total_transaction_value_inr": 116495487.0,
+  "average_transaction_inr": 1308.6586796077243,
+  "median_transaction_inr": 628.0,
+  "successful_transactions": 84640,
+  "failed_transactions": 4379,
+  "success_rate_pct": 95.08082544175961,
+  "failure_rate_pct": 4.919174558240376,
+  "fraud_flagged_transactions": 165,
+  "fraud_flag_rate_pct": 0.18535368853840192,
+  "fraud_flagged_amount_inr": 276959.0,
+  "daily_volume_anomaly_days": 3,
+  "significant_tests_5pct": 0,
+  "tests_run": 18
+}

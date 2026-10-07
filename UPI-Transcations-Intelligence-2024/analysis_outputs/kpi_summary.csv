@@ -1,0 +1,14 @@
+Metric,Value
+Total Transactions,89019.0
+Total Transaction Value (INR),116495487.0
+Average Transaction (INR),1308.6586796077243
+Median Transaction (INR),628.0
+Minimum Transaction (INR),10.0
+Maximum Transaction (INR),34304.0
+Successful Transactions,84640.0
+Failed Transactions,4379.0
+Success Rate (%),95.08082544175961
+Failure Rate (%),4.919174558240376
+Fraud-Flagged Transactions,165.0
+Fraud-Flag Rate (%),0.18535368853840192
+Fraud-Flagged Amount (INR),276959.0
